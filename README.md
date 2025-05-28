@@ -3,6 +3,6 @@ Using data analytics tools like Pandas and Seaborn, we explore rating discrepanc
 
 Inflated ratings can erode consumer trust, leading to churn and negative brand sentiment when expectations are not met. We used independent ratings from dedicated rating websites like Rotten Tomatoes, Metacritic and IMDB to highlight how bloated Fandango's ratings were.
 
-From a Data Analytics point of view, skewed data can lead to incorrect insights and consequently wrong data-driven decisions. But from a ML point of view, skewed data can mdecrease accuracy and mess up predictions with no obvious reason at first glance.
+From a Data Analytics point of view, skewed data can lead to incorrect insights and consequently wrong data-driven decisions. But even for an in-house Data Scientist, skewed data can decrease accuracy and mess up algorithmic predictions with no obvious reason at first glance.
 
 Datasets sourced from public movie ratings were normalized and aligned for accurate comparisons using Pandas, and then Seaborn to bring clarity to the rating distributions, enabling stakeholders to quickly interpret the trends.
