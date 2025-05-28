@@ -1,9 +1,8 @@
-# Analytics
-Data Analytics Project
+This analysis investigates a potential systematic inflation in movie ratings on Fandango compared to more community-driven websites. 
+Using data analytics tools like Pandas and Seaborn, we explore rating discrepancies across popular titles to assess whether Fandango's scores are consistently higher—and what that means for users and stakeholders.
 
-"Can you trust movie ratings if the website also sells tickets? - A look into the 2015 Fandango Controversy"
+Inflated ratings can erode consumer trust, leading to churn and negative brand sentiment when expectations are not met. We used independent ratings from dedicated rating websites like Rotten Tomatoes, Metacritic and IMDB to highlight how bloated Fandango's rating are.
 
-Project Subject is from Capstone Exercise for Udemy course "Python for Machine Learning and Data Science Masterclass" (https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) that I undertook as a means of revision and extra practice to supplement my Data Science Professional Diploma from Big Blue Data Academy.
+From a Data Analytics point of view, skewed data can lead to incorrect insights and consequently wrong data-driven decisions. But from a ML point of view, skewed data can mdecrease accuracy and mess up predictions with no obvious reason at first glance.
 
-
-I got some ideas regarding which graphs to show from the course but all the code is written by me and is independent from the course. This Notebook is uploaded to showcase my code-writing style and skills.
+Datasets sourced from public movie ratings were normalized and aligned for accurate comparisons using Pandas, and then Seaborn to bring clarity to the rating distributions, enabling stakeholders to quickly interpret the trends.
